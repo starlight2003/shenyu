@@ -111,7 +111,7 @@
         <wiremock.version>2.18.0</wiremock.version>
         <zookeeper.version>3.5.7</zookeeper.version>
         <zkclient.version>0.10</zkclient.version>
-        <shiro.version>1.8.0</shiro.version>
+        <shiro.version>1.13.0</shiro.version>
         <jwt.version>3.12.0</jwt.version>
         <motan.version>1.2.0</motan.version>
         <spring-boot.version>2.6.8</spring-boot.version>
