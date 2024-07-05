@@ -51,7 +51,7 @@
         <log4j.version>2.18.0</log4j.version>
         <slf4j.version>1.7.35</slf4j.version>
         <jackson.version>2.13.3</jackson.version>
-        <rest-assured.version>5.2.0</rest-assured.version>
+        <rest-assured.version>5.5.0</rest-assured.version>
         <jetbrains-annotations.version>23.0.0</jetbrains-annotations.version>
         <apache-rat-plugin.version>0.13</apache-rat-plugin.version>
     </properties>
