@@ -28,7 +28,7 @@
     <artifactId>shenyu-examples-sdk-grpc-provider</artifactId>
 
     <properties>
-        <grpc.version>1.33.1</grpc.version>
+        <grpc.version>1.45.0</grpc.version>
     </properties>
 
     <dependencies>
